@@ -1,0 +1,46 @@
+{
+  "todos": [
+    {
+      "text": "Learn GraphQL",
+      "completed": true,
+      "id": 14,
+      "color": "red"
+    },
+    {
+      "text": "Learn Query",
+      "completed": false,
+      "id": 15,
+      "color": "yellow"
+    },
+    {
+      "text": "Learn Javascript",
+      "completed": false,
+      "id": 16,
+      "color": "green"
+    },
+    {
+      "text": "Learn From LWS",
+      "completed": false,
+      "id": 17,
+      "color": "yellow"
+    },
+    {
+      "text": "Learn Redux",
+      "completed": true,
+      "id": 18,
+      "color": "red"
+    },
+    {
+      "text": "Learn RTK  Query",
+      "completed": true,
+      "id": 19,
+      "color": "yellow"
+    },
+    {
+      "text": "chatGPT",
+      "completed": true,
+      "id": 21,
+      "color": "green"
+    }
+  ]
+}
