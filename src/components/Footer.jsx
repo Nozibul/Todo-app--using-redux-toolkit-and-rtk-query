@@ -13,11 +13,11 @@ const numberOfTodos = (no_of_todos) => {
 };
 
 export default function Footer() {
+  const dispatch = useDispatch();
   const { status, colors } = useSelector((state) => state.filter);
 
   const { data: todos, isSuccess } = useGetTodosQuery({ status, colors });
 
-  const dispatch = useDispatch();
 
 
   const handleStatusChange = (status) => {
